@@ -1,1 +1,2 @@
-# intellij-settings
+# Intellij Settings
+My personal IntelliJ settings.
